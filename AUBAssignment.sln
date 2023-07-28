@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUBAssignmentServices", "AUBAssignmentServices\AUBAssignmentServices.csproj", "{08EF135D-099E-4AF5-AB97-89F17A84D4CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUBAssignmentBusiness", "AUBAssignmentBusiness\AUBAssignmentBusiness.csproj", "{F08F30A2-8BF1-4A5D-9568-464945722AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EF135D-099E-4AF5-AB97-89F17A84D4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EF135D-099E-4AF5-AB97-89F17A84D4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EF135D-099E-4AF5-AB97-89F17A84D4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EF135D-099E-4AF5-AB97-89F17A84D4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08F30A2-8BF1-4A5D-9568-464945722AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08F30A2-8BF1-4A5D-9568-464945722AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08F30A2-8BF1-4A5D-9568-464945722AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08F30A2-8BF1-4A5D-9568-464945722AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BA6711-9BEC-40D3-8158-343E8BE2456E}
+	EndGlobalSection
+EndGlobal
